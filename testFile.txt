@@ -1,2 +1,1 @@
 This is just Text file.
-this is second line.
